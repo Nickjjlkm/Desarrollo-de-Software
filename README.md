@@ -21,4 +21,14 @@ hornear— quede independiente de la variante de masa que produzca la máquina,
 permitiendo agregar nuevas variantes sin modificar el código del preparador.
 
 
+## Modelo de clases
+
+![Modelo de clases con Fábrica Abstracta](modelo-clases.png)
+
+`PreparadorPizza` solo se relaciona con `AFabricaPizza` y con las tres
+interfaces de producto. Cada fábrica concreta produce la terna completa de su
+familia, de modo que agregar una variante nueva no obliga a modificar la
+lógica de preparación.
+
+
 Las evidencias de ejecución están en [EVIDENCIAS.md](EVIDENCIAS.md).
