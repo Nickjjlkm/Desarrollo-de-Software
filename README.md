@@ -19,3 +19,6 @@ acoplado a un único tipo de masa. Se aplica el patrón Fábrica Abstracta para
 que la secuencia de preparación —amasar, moldear, aplicar ingredientes y
 hornear— quede independiente de la variante de masa que produzca la máquina,
 permitiendo agregar nuevas variantes sin modificar el código del preparador.
+
+
+Las evidencias de ejecución están en [EVIDENCIAS.md](EVIDENCIAS.md).
