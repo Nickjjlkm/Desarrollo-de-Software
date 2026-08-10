@@ -1,6 +1,15 @@
 # Desarrollo-de-Software
 # Taller de Patrones Creacionales — Fábrica Abstracta
 
+
+## Trabajo en pareja
+
+- **Nicolás Salazar** — Parte I: Fábrica de Pizzas
+- **Tiffany Cardona** — Parte II: Refactorización del juego
+
+Parte I: https://github.com/Nickjjlkm/Desarrollo-de-Software
+Parte II: https://github.com/Nickjjlkm/DYAS-GoF-CreationalPatterns-GameRefactoring
+
 ### Parte I: Fábrica de Pizzas
 
 Universidad de La Sabana
