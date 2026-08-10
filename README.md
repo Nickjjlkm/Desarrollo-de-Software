@@ -6,8 +6,8 @@
 Universidad de La Sabana
 Diseño y Arquitectura de Software
 
-**Estudiante:** Nicolás [Apellido]
-**Código:** [tu código]
+**Estudiante:** Nicolás Salazar
+**Código:** 337434
 **Profesor:** César A. Vega F.
 
 Agosto de 2026
